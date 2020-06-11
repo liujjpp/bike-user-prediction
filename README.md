@@ -1,2 +1,4 @@
 # bike-user-prediction
-Predict the class of user.
+Dataset: Trip History Dataset
+
+Problem: Predict the class of user.
